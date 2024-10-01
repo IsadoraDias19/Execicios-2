@@ -1,0 +1,14 @@
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\obj\Debug\net8.0\Atividade 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\obj\Debug\net8.0\Atividade 10.AssemblyInfoInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\obj\Debug\net8.0\Atividade 10.AssemblyInfo.cs
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\obj\Debug\net8.0\Atividade 10.csproj.CoreCompileInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\bin\Debug\net8.0\Atividade 10.exe
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\bin\Debug\net8.0\Atividade 10.deps.json
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\bin\Debug\net8.0\Atividade 10.runtimeconfig.json
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\bin\Debug\net8.0\Atividade 10.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\bin\Debug\net8.0\Atividade 10.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\obj\Debug\net8.0\Atividade 10.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\obj\Debug\net8.0\refint\Atividade 10.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\obj\Debug\net8.0\Atividade 10.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\obj\Debug\net8.0\Atividade 10.genruntimeconfig.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 10\Atividade 10\obj\Debug\net8.0\ref\Atividade 10.dll

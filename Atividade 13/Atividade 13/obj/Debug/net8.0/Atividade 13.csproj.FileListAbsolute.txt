@@ -1,0 +1,14 @@
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\obj\Debug\net8.0\Atividade 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\obj\Debug\net8.0\Atividade 13.AssemblyInfoInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\obj\Debug\net8.0\Atividade 13.AssemblyInfo.cs
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\obj\Debug\net8.0\Atividade 13.csproj.CoreCompileInputs.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\bin\Debug\net8.0\Atividade 13.exe
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\bin\Debug\net8.0\Atividade 13.deps.json
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\bin\Debug\net8.0\Atividade 13.runtimeconfig.json
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\bin\Debug\net8.0\Atividade 13.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\bin\Debug\net8.0\Atividade 13.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\obj\Debug\net8.0\Atividade 13.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\obj\Debug\net8.0\refint\Atividade 13.dll
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\obj\Debug\net8.0\Atividade 13.pdb
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\obj\Debug\net8.0\Atividade 13.genruntimeconfig.cache
+C:\Users\Isadora Dias\Desktop\BackEnd\Exercicios 2 - IntroduçãoC#\Atividade 13\Atividade 13\obj\Debug\net8.0\ref\Atividade 13.dll
